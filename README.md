@@ -58,6 +58,6 @@ If B ask money to the bank, it is because he trust C and D to do the work like h
 C and D must also trust B since they are accepting fakecoin and not bitcoin from him.
 if B is taking too many risk, example: D isn't trustworthy but he still give him 50 fakecoin, it was his fault to do it and the bank will conside that B did the bad thing and get all fakecoin back while giving A his bitcoin back (like in part 2)
 
-If you want to help this project, try to make a code for the Bank and the FakeCoin so that we can do it.
+If you want to help this project, try to make a code for the Bank and the FakeCoin.(in c++ for both please)
 If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just write it.
 Thank you for your support!
