@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 If you want to help this project, try to make a code for the Bank or/and the FakeCoin.(in c++ for both please)
 
-If you have any suggestion/question/you found a way to beat the system, just write it in the wiki, or send me an email at isaakchevry@gmail.com
+If you have any suggestion/question/you found a way to beat the system, just send me an email at isaakchevry@gmail.com
 
 donate in bitcoin: 1Q1m2inLhD5x2XXoZBHvUyp9QVaxdAxPMY
 
@@ -127,7 +127,7 @@ ________________________________________________________________________________
 
 If you want to help this project, try to make a code for the Bank and the FakeCoin.(in c++ for both please)
 
-If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just write it in the wiki, or send me an email at isaakchevry@gmail.com
+If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just send me an email at isaakchevry@gmail.com
 
 donate in bitcoin: 1Q1m2inLhD5x2XXoZBHvUyp9QVaxdAxPMY
 
