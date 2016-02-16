@@ -123,6 +123,11 @@ NO, reason 1: Its anonymous so will be hard to recognise a friend (but still pos
 
 reason 2: It will work like to system of proof of work from the bitcoin minning. Means you would need to make sure that 50%+1 of the bank worker on the planet would be OK to help your friend to get around the system.
 
+_____________________________________________________________________________________________________________
+part 9-Isn't the bank acting as a centralised system?
+
+It is not, even if the bank act as one person to be the third party, it is not one person that decide for the bank. It work the exact same way as the blockchain: the blockchain decide who have which bitcoin, but the blockchain is a high number of miner, so the only danger is a 51% attack. (Bank decide, bank = lots of bankers, 51% attack is only danger)
+
 ____________________________________________________________________________________________________________
 
 If you want to help this project, try to make a code for the Bank and the FakeCoin.(in c++ for both please)
