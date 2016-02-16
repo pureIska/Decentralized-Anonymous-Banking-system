@@ -1,4 +1,4 @@
-# Decentralized-Banking-system
+# Decentralized-Anonymous-Banking-System
 this, is a decentralised anonymous trustless banking system for the bitcoin!
 
 _______________________________________________________________________________________________________________
