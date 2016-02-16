@@ -1,6 +1,11 @@
 # Decentralized-Banking-system
 this, is a decentralised anonymous trustless banking system for the bitcoin!
 
+If you want to help this project, try to make a code for the Bank or/and the FakeCoin.(in c++ for both please)
+If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just write it, or send me an email at isaakchevry@gmail.com
+donate in bitcoin: 1Q1m2inLhD5x2XXoZBHvUyp9QVaxdAxPMY
+
+
 part 1-How does it works?
 
 character:A: person trying to invest in the bank by giving it 100 bitcoin
@@ -58,6 +63,12 @@ If B ask money to the bank, it is because he trust C and D to do the work like h
 C and D must also trust B since they are accepting fakecoin and not bitcoin from him.
 if B is taking too many risk, example: D isn't trustworthy but he still give him 50 fakecoin, it was his fault to do it and the bank will conside that B did the bad thing and get all fakecoin back while giving A his bitcoin back (like in part 2)
 
+part 7- If an accident happen and B can't refound.
+A can choose to get his money back or to wait until B has the money. If he will not be able to get it back, for now it will be considered like part 5 or 4. (tell me if you have a solution for this tho)
+
+
 If you want to help this project, try to make a code for the Bank and the FakeCoin.(in c++ for both please)
-If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just write it.
+If you have any suggestion/question/you found a way to be the bad guy and win money for nothing, just write it, or send me an email at isaakchevry@gmail.com
+donate in bitcoin: 1Q1m2inLhD5x2XXoZBHvUyp9QVaxdAxPMY
+
 Thank you for your support!
